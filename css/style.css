@@ -76,4 +76,41 @@ main {
 
 li {
     margin-top: 15px;
+    font-size: 20px;
+}
+
+.label {
+    font-size: 12px;
+    display: inline-block;
+    width: 50px;
+    border-radius: 15%;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding-top: 3px;
+}
+
+.skyblue {
+    background-color: #46ABEA;
+}
+
+.violet {
+    background-color: #9C72E5;
+}
+
+.green {
+    background-color: #65C0A8;
+}
+
+.orange {
+    background-color: #F29E32;
+}
+
+.pink {
+    background-color: #D963A1;
+}
+
+.lightgreen {
+    background-color: #B1C925;
 }
