@@ -13,7 +13,6 @@ ul {
 }
 
 .main-header {
-    vertical-align: middle;
     font-size: 40px;
     font-weight: 700;
 }
@@ -25,8 +24,16 @@ ul {
 .logo-container {
     width: 95%;
     margin: 0 auto;
+    
 }
 
+.list {
+    vertical-align: middle;
+}
+ 
+img {
+    vertical-align: middle;
+}
 main {
     background-color: #F7F8F9;
     padding-top: 40px;
@@ -82,8 +89,8 @@ li {
 .label {
     font-size: 12px;
     display: inline-block;
-    width: 50px;
-    border-radius: 15%;
+    width: 60px;
+    border-radius: 0% 20% 0% 20%;
     height: 20px;
     text-align: center;
     vertical-align: middle;
@@ -113,4 +120,25 @@ li {
 
 .lightgreen {
     background-color: #B1C925;
+}
+
+.box {
+    display: inline-block;
+    margin-right: 10px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    padding-left: 4px;
+    font-size: 14px;
+}
+
+.check {
+    border: 1px solid green ;
+    color: green;   
+}
+
+.cross {
+    border: 1px solid red ;
+    color: red;    
 }
