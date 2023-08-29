@@ -4,3 +4,38 @@
     padding: 0;
 }
 
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+.main-header {
+    vertical-align: middle;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.logo {
+    width: 80px;
+}
+
+main {
+    background-color: #F7F8F9;
+   
+}
+
+.container {
+    max-width: 980px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.button-section {
+    height: 100px;
+    border-bottom: 1px solid black;
+}
