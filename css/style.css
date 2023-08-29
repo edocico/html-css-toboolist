@@ -11,7 +11,7 @@ img {
 ul {
     list-style: none;
 }
-
+/* header */
 .main-header {
     font-size: 40px;
     font-weight: 700;
@@ -26,7 +26,7 @@ ul {
     margin: 0 auto;
     
 }
-
+/* main section */
 .list {
     vertical-align: middle;
 }
@@ -47,7 +47,7 @@ main {
     background-color: white;
     
 }
-
+/* button style */
 .button-section {
     height: 50px;
     border-bottom: 3px solid #F7F8F9;
@@ -74,7 +74,7 @@ main {
     border: 1px solid gray;
     margin-left: 6px;
 }
-
+/* list style */
 .list-section {
     width: 90%;
     margin: 0 auto;
@@ -85,13 +85,13 @@ li {
     margin-top: 15px;
     font-size: 20px;
 }
-
+/* label style */
 .label {
     font-size: 12px;
     display: inline-block;
     width: 60px;
-    border-radius: 0% 20% 0% 20%;
-    height: 20px;
+    border-radius: 50%;
+    height: 25px;
     text-align: center;
     vertical-align: middle;
     color: white;
@@ -121,7 +121,7 @@ li {
 .lightgreen {
     background-color: #B1C925;
 }
-
+/* box style */
 .box {
     display: inline-block;
     margin-right: 10px;
