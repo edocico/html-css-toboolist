@@ -91,7 +91,7 @@ li {
     font-size: 12px;
     display: inline-block;
     width: 60px;
-    border-radius: 50%;
+    border-radius: 12px;
     height: 25px;
     text-align: center;
     vertical-align: middle;
@@ -143,3 +143,5 @@ li {
     border: 1px solid red ;
     color: red;    
 }
+
+/*per matchare il colore dell'elemento e il colore del bordo si può usare currentcolor*/
